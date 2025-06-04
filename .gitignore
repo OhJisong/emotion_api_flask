@@ -1,0 +1,8 @@
+# .gitignore
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+*.zip
+saved_emotion_model/
